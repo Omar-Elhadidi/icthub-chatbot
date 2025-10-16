@@ -1,2 +1,2 @@
 # icthub-chatbot
-Rule-based chatbot for ICT Hub using Python, scikit-learn, and Gradio.
+A rule-based chatbot built with Gradio and Python for ICT Hub Services.
