@@ -14,6 +14,9 @@ pinned: false
 Welcome to the **ICT Hub Chatbot** — a rule-based conversational assistant built with **Python**, **Gradio**, and **Machine Learning**.  
 It provides quick responses to ICT Hub–related queries using an Excel dataset.
 
+<img width="1919" height="955" alt="Screenshot 2026-05-21 041644" src="https://github.com/user-attachments/assets/f8edb10f-46cb-4b01-a597-470553002eb3" />
+
+
 ---
 
 ## 🚀 Features
