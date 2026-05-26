@@ -1,7 +1,7 @@
 ---
 title: ICT Hub Chatbot
 emoji: 💬
-colorFrom: blue
+colorFrom: blue 
 colorTo: gray
 sdk: gradio
 sdk_version: "5.49.1"
